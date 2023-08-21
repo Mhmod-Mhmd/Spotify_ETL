@@ -52,7 +52,7 @@ Finally, we have completed our ETL pipeline successfully.
 
 After running the  **Load.py**  you could see a .sqlite file will be saved to the project folder, to check the data inside the file head  [here](https://inloop.github.io/sqlite-viewer/)  and drop your file.
 
-![](![1_OpGD1spYMVIulWVCKPttlw](https://github.com/Mhmod-Mhmd/Spotify_ETL/assets/113009688/1999fc88-39a3-44f1-9e2c-f7962f8fa0e3))
+![]()
 
 
 Now we will automate this process using Airflow.
